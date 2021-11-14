@@ -1,0 +1,13 @@
+*.meta
+**/Art
+**/Scenes
+*.unity
+*.sln
+*.json
+*.asset
+**/Library
+**/Logs
+**/Packages
+**/ProjectSettings
+**/Temp
+**/UserSettings
