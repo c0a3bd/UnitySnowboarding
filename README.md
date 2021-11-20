@@ -26,7 +26,7 @@ Enjoy a snowboarding game
         * Relates to Angular Drag
     * Speed = How fast the player moves along snow
         * Relates to player Linear Drag
-    * 
+    * Add finish line and collision detectors 
 
 # References used
 * https://docs.unity3d.com/2021.2/Documentation/Manual/Quickstart2DSetup.html
@@ -42,3 +42,4 @@ Enjoy a snowboarding game
 * https://docs.unity3d.com/ScriptReference/Rigidbody2D.AddTorque.html
 * https://docs.unity3d.com/ScriptReference/KeyCode.html 
 * https://docs.unity3d.com/Manual/class-Rigidbody2D.html 
+* https://docs.unity3d.com/ScriptReference/Collider.OnCollisionEnter.html
