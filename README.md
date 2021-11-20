@@ -1,6 +1,12 @@
 # Snowboarding
 Project to make a fun snowboarding game
 
+# Objective
+Enjoy a snowboarding game
+
+# Screen shots
+![Game](https://github.com/c0a3bd/UnitySnowboarding/blob/main/docs/Game_Home.png)
+
 # Project tasks
 * Import snowboarding assets
 * Create a closed 2d sprite shape
@@ -14,6 +20,13 @@ Project to make a fun snowboarding game
     * Offset the game board edge collider for good visual connection
 * Increase top snow edge of game board
 * Use effector to glide board on snow
+* Add left and right torque to rotate the player
+* Adjust player linear and angular drag
+    * Torque Amount = How fast the player spins
+        * Relates to Angular Drag
+    * Speed = How fast the player moves along snow
+        * Relates to player Linear Drag
+    * 
 
 # References used
 * https://docs.unity3d.com/2021.2/Documentation/Manual/Quickstart2DSetup.html
@@ -26,9 +39,6 @@ Project to make a fun snowboarding game
 * https://docs.unity3d.com/2021.2/Documentation/Manual/com.unity.cinemachine.html
 * https://docs.unity3d.com/Packages/com.unity.cinemachine@2.3/manual/index.html
 * https://docs.unity3d.com/Manual/class-SurfaceEffector2D.html
-
-# Objective
-Enjoy snowboarding
-
-# Screen shots
-![Game](https://github.com/c0a3bd/UnitySnowboarding/blob/main/docs/Game_Home.png)
+* https://docs.unity3d.com/ScriptReference/Rigidbody2D.AddTorque.html
+* https://docs.unity3d.com/ScriptReference/KeyCode.html 
+* https://docs.unity3d.com/Manual/class-Rigidbody2D.html 

@@ -1,4 +1,5 @@
 *.meta
+*.csproj
 **/Art
 **/Scenes
 *.unity
