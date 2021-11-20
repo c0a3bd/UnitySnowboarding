@@ -13,7 +13,7 @@ Project to make a fun snowboarding game
 * Add a snowball to test gravity
     * Offset the game board edge collider for good visual connection
 * Increase top snow edge of game board
-* 
+* Use effector to glide board on snow
 
 # References used
 * https://docs.unity3d.com/2021.2/Documentation/Manual/Quickstart2DSetup.html
@@ -26,9 +26,9 @@ Project to make a fun snowboarding game
 * https://docs.unity3d.com/2021.2/Documentation/Manual/com.unity.cinemachine.html
 * https://docs.unity3d.com/Packages/com.unity.cinemachine@2.3/manual/index.html
 * https://docs.unity3d.com/Manual/class-SurfaceEffector2D.html
-* 
 
 # Objective
 Enjoy snowboarding
 
 # Screen shots
+![Game](https://github.com/c0a3bd/UnitySnowboarding/blob/main/docs/Game_Home.png)
