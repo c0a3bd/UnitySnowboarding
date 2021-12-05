@@ -1,3 +1,4 @@
+*.cache
 *.meta
 *.csproj
 **/Art
@@ -12,3 +13,4 @@
 **/ProjectSettings
 **/Temp
 **/UserSettings
+**/obj/Debug
