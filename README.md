@@ -28,6 +28,7 @@ Enjoy a snowboarding game
         * Relates to player Linear Drag
 * Add finish line and collision detectors 
 * Add conditions to start game over
+* Add a delay before reloading a game
 
 
 # References used
@@ -47,3 +48,4 @@ Enjoy a snowboarding game
 * https://docs.unity3d.com/ScriptReference/Collider.OnCollisionEnter.html
 * https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.html 
 * https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.LoadScene.html
+* https://docs.unity3d.com/ScriptReference/MonoBehaviour.Invoke.html 
