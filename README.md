@@ -43,3 +43,5 @@ Enjoy a snowboarding game
 * https://docs.unity3d.com/ScriptReference/KeyCode.html 
 * https://docs.unity3d.com/Manual/class-Rigidbody2D.html 
 * https://docs.unity3d.com/ScriptReference/Collider.OnCollisionEnter.html
+* https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.html 
+* https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.LoadScene.html
